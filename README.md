@@ -236,14 +236,13 @@ Os principais cenários a verificar são:
 - **Professor:** André Roberto Guerra.
 - **Período:** 2º período.
 
-| Integrante 
-| --- | --- |
-| Danilo Depetris Soares 
-| Luís Gustavo Bueno Taquete 
-| Gabriel Weber da Rocha 
-| Júlia Barbosa de Almeida 
-| Nityananda Portellada 
-| Ana Carolina de Proença 
+| Integrante |
+| Danilo Depetris Soares |
+| Luís Gustavo Bueno Taquete | 
+| Gabriel Weber da Rocha |
+| Júlia Barbosa de Almeida | 
+| Nityananda Portellada |
+| Ana Carolina de Proença | 
 
 As contribuições devem refletir as atividades efetivamente realizadas pelo grupo. O nome oficial da instituição pode ser conferido no [site da FESP](https://fesppr.edu.br/).
 

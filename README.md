@@ -236,7 +236,7 @@ Os principais cenários a verificar são:
 - **Professor:** André Roberto Guerra.
 - **Período:** 2º período.
 
-| Integrante | Contribuição registrada no projeto |
+| Integrante 
 | --- | --- |
 | Danilo Depetris Soares 
 | Luís Gustavo Bueno Taquete 
